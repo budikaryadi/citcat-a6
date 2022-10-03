@@ -6,4 +6,4 @@ pandas==1.2.4
 pyTelegramBotAPI==3.7.9
 python-dotenv==0.17.1
 gtts==2.2.2
-python == 3.8.13
+python == 3.10.7
